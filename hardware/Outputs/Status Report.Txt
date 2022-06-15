@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [ESP32S3-9INCHES_DISPLAY.PrjPcb]
+   Generated File[ESP32S3-9INCHES_DISPLAY-RoundHoles.TXT]
+   Generated File[ESP32S3-9INCHES_DISPLAY-SlotHoles.TXT]
+   Generated File[ESP32S3-9INCHES_DISPLAY.LDP]
+   Generated File[ESP32S3-9INCHES_DISPLAY.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 14:39:50 On 6/15/2022

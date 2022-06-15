@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\BIRD\Altium\ESP32S3-9INCHES_DISPLAY\ESP32S3-9INCHES_DISPLAY.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=esp32s3-9inches_display-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=esp32s3-9inches_display-slotholes.txt|DrillLayers=gtl,gbl

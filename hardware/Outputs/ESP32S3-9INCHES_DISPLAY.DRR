@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ESP32S3-9INCHES_DISPLAY.PcbDoc   6/15/2022  14:39:50
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ESP32S3-9INCHES_DISPLAY-RoundHoles.TXT
+ASCII SlotHoles File : ESP32S3-9INCHES_DISPLAY-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             495       PTH        74.23inch (1885.35mm)
+T2      16mil (0.399mm)                                           Round             12        PTH        0.58inch (14.75mm)
+T3      16mil (0.406mm)                                           Round             5         PTH        0.20inch (5.20mm)
+T4      24mil (0.599mm)                                           Round             24        PTH        14.01inch (355.85mm)
+T5      24mil (0.599mm)                                           Slot              8         PTH        6.95inch (176.44mm)
+T6      26mil (0.65mm)                                            Round             4         PTH        2.55inch (64.83mm)
+T7      34mil (0.864mm)                                           Round             4         PTH        12.57inch (319.23mm)
+T8      40mil (1.016mm)                                           Round             16        PTH        1.50inch (38.10mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              568
+
+Total Processing Time (hh:mm:ss) : 00:00:00
